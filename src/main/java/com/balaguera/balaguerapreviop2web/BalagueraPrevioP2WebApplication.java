@@ -1,4 +1,4 @@
-package com.balaguera.balaguera_previo_p2_web;
+package com.balaguera.balaguerapreviop2web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
